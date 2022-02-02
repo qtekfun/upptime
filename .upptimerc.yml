@@ -15,8 +15,8 @@ sites:
     url: https://qtekfun.com/
   - name: NH
     url: https://www.noeliahontoria.com/  
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: Testamentaria
+    url: https://testamentaria.com
 assignees: # Users to assign downtime issues (optional)
   - qtekfun
 status-website:
