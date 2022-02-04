@@ -11,10 +11,20 @@ sites:
     url: https://www.lamejortele.com/
   - name: Opinión Televisión
     url: https://opiniontelevision.com/
+  - name: Opinión Monitor
+    url: https://opinionmonitor.com/
   - name: Qtekfun
     url: https://qtekfun.com/
   - name: NH
     url: https://www.noeliahontoria.com/  
+  - name: Proyosi
+    url: https://proyosi.com/
+  - name: Arcones Congelador
+    url: https://arconescongelador.com/
+  - name: Inspiración musical
+    url: https://inspiracionmusical.com/
+  - name: Champú Sin Sulfato
+    url: https://champusinsulfato.com/
   - name: Testamentaria
     url: https://testamentaria.com
 assignees: # Users to assign downtime issues (optional)
