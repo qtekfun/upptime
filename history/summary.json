@@ -210,19 +210,19 @@
     "url": "https://testamentaria.com",
     "icon": "https://favicons.githubusercontent.com/testamentaria.com",
     "slug": "testamentaria",
-    "status": "down",
-    "uptime": "99.10%",
-    "uptimeDay": "94.80%",
-    "uptimeWeek": "99.10%",
-    "uptimeMonth": "99.10%",
-    "uptimeYear": "99.10%",
-    "time": 4795,
-    "timeDay": 6767,
-    "timeWeek": 4795,
-    "timeMonth": 4795,
-    "timeYear": 4795,
+    "status": "up",
+    "uptime": "98.91%",
+    "uptimeDay": "93.70%",
+    "uptimeWeek": "98.91%",
+    "uptimeMonth": "98.91%",
+    "uptimeYear": "98.91%",
+    "time": 4814,
+    "timeDay": 6523,
+    "timeWeek": 4814,
+    "timeMonth": 4814,
+    "timeYear": 4814,
     "dailyMinutesDown": {
-      "2022-02-08": 75
+      "2022-02-08": 91
     }
   }
 ]
