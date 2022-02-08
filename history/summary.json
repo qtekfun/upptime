@@ -5,19 +5,17 @@
     "icon": "https://favicons.githubusercontent.com/mrmoviliano.com",
     "slug": "mr-moviliano",
     "status": "up",
-    "uptime": "99.86%",
-    "uptimeDay": "99.20%",
-    "uptimeWeek": "99.86%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 2200,
     "timeDay": 3096,
     "timeWeek": 2200,
     "timeMonth": 2200,
     "timeYear": 2200,
-    "dailyMinutesDown": {
-      "2022-02-08": 12
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Ocio En Femenino",
@@ -212,7 +210,7 @@
     "url": "https://testamentaria.com",
     "icon": "https://favicons.githubusercontent.com/testamentaria.com",
     "slug": "testamentaria",
-    "status": "up",
+    "status": "down",
     "uptime": "99.74%",
     "uptimeDay": "98.53%",
     "uptimeWeek": "99.74%",
