@@ -78,19 +78,19 @@
     "url": "https://opinionmonitor.com/",
     "icon": "https://favicons.githubusercontent.com/opinionmonitor.com",
     "slug": "opinion-monitor",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.96%",
-    "uptimeWeek": "99.99%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 761,
-    "timeDay": 818,
-    "timeWeek": 833,
-    "timeMonth": 761,
-    "timeYear": 761,
+    "status": "up",
+    "uptime": "99.90%",
+    "uptimeDay": "97.49%",
+    "uptimeWeek": "99.64%",
+    "uptimeMonth": "99.90%",
+    "uptimeYear": "99.90%",
+    "time": 864,
+    "timeDay": 2280,
+    "timeWeek": 1197,
+    "timeMonth": 864,
+    "timeYear": 864,
     "dailyMinutesDown": {
-      "2022-03-01": 1
+      "2022-03-01": 36
     }
   },
   {
