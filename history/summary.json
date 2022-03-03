@@ -4,10 +4,10 @@
     "url": "https://mrmoviliano.com",
     "icon": "https://favicons.githubusercontent.com/mrmoviliano.com",
     "slug": "mr-moviliano",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.94%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 2462,
@@ -15,7 +15,9 @@
     "timeWeek": 3048,
     "timeMonth": 2508,
     "timeYear": 2462,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-03-03": 1
+    }
   },
   {
     "name": "Ocio En Femenino",
