@@ -1,7 +1,7 @@
 url: https://testamentaria.com
-status: up
-code: 200
-responseTime: 5649
-lastUpdated: 2022-10-11T23:13:32.479Z
+status: down
+code: 500
+responseTime: 773
+lastUpdated: 2022-10-12T22:43:03.738Z
 startTime: Wed Feb 02 2022 21:14:08 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
