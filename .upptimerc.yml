@@ -29,6 +29,8 @@ sites:
     url: https://champusinsulfato.com/
   - name: Testamentaria
     url: https://testamentaria.com
+  - name: ComidistaFoodie
+    url: https://comidistafoodie.com
 assignees: # Users to assign downtime issues (optional)
   - qtekfun
 status-website:
