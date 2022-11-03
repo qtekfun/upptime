@@ -132,10 +132,10 @@
     "url": "https://opiniontelevision.com/",
     "icon": "https://icons.duckduckgo.com/ip3/opiniontelevision.com.ico",
     "slug": "opinion-television",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1016,
@@ -144,6 +144,7 @@
     "timeMonth": 1046,
     "timeYear": 1016,
     "dailyMinutesDown": {
+      "2022-11-03": 1,
       "2022-07-13": 45,
       "2022-07-12": 20,
       "2022-06-04": 47
@@ -234,10 +235,10 @@
     "url": "https://www.noeliahontoria.com/",
     "icon": "https://icons.duckduckgo.com/ip3/www.noeliahontoria.com.ico",
     "slug": "nh",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.96%",
+    "uptimeWeek": "99.99%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1357,
@@ -246,6 +247,7 @@
     "timeMonth": 3001,
     "timeYear": 1357,
     "dailyMinutesDown": {
+      "2022-11-03": 1,
       "2022-07-13": 45,
       "2022-07-12": 19,
       "2022-06-04": 47
@@ -256,9 +258,9 @@
     "url": "https://proyosi.com/",
     "icon": "https://icons.duckduckgo.com/ip3/proyosi.com.ico",
     "slug": "proyosi",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -268,6 +270,7 @@
     "timeMonth": 5443,
     "timeYear": 5473,
     "dailyMinutesDown": {
+      "2022-11-03": 1,
       "2022-07-13": 45,
       "2022-07-12": 19,
       "2022-06-04": 46
@@ -278,9 +281,9 @@
     "url": "https://arconescongelador.com/",
     "icon": "https://icons.duckduckgo.com/ip3/arconescongelador.com.ico",
     "slug": "arcones-congelador",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -290,6 +293,7 @@
     "timeMonth": 4482,
     "timeYear": 3851,
     "dailyMinutesDown": {
+      "2022-11-03": 0,
       "2022-07-13": 45,
       "2022-07-12": 18,
       "2022-06-04": 46
