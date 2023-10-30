@@ -231,19 +231,19 @@
     "url": "https://comidistafoodie.com",
     "icon": "https://icons.duckduckgo.com/ip3/comidistafoodie.com.ico",
     "slug": "comidista-foodie",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "97.85%",
+    "uptimeWeek": "99.69%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 173,
-    "timeDay": 138,
-    "timeWeek": 165,
-    "timeMonth": 160,
-    "timeYear": 172,
+    "timeDay": 157,
+    "timeWeek": 168,
+    "timeMonth": 161,
+    "timeYear": 173,
     "dailyMinutesDown": {
-      "2023-10-30": 0
+      "2023-10-30": 31
     }
   }
 ]
