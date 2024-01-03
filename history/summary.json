@@ -111,19 +111,19 @@
     "url": "https://qtekfun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qtekfun.com.ico",
     "slug": "qtekfun",
-    "status": "down",
+    "status": "up",
     "uptime": "99.81%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.23%",
+    "uptimeWeek": "99.89%",
+    "uptimeMonth": "99.97%",
     "uptimeYear": "100.00%",
     "time": 327,
-    "timeDay": 1638,
-    "timeWeek": 561,
-    "timeMonth": 270,
-    "timeYear": 303,
+    "timeDay": 1145,
+    "timeWeek": 517,
+    "timeMonth": 267,
+    "timeYear": 302,
     "dailyMinutesDown": {
-      "2024-01-03": 0
+      "2024-01-03": 11
     }
   },
   {
