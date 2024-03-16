@@ -113,9 +113,9 @@
     "url": "https://qtekfun.com/",
     "icon": "https://icons.duckduckgo.com/ip3/qtekfun.com.ico",
     "slug": "qtekfun",
-    "status": "up",
+    "status": "down",
     "uptime": "99.83%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -124,7 +124,9 @@
     "timeWeek": 1373,
     "timeMonth": 469,
     "timeYear": 295,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-16": 0
+    }
   },
   {
     "name": "Qtekfun Temp",
