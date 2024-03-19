@@ -133,18 +133,20 @@
     "url": "https://qtekfun.netlify.app/",
     "icon": "https://icons.duckduckgo.com/ip3/qtekfun.netlify.app.ico",
     "slug": "qtekfun-temp",
-    "status": "up",
+    "status": "down",
     "uptime": "99.99%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.97%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 188,
-    "timeDay": 143,
-    "timeWeek": 736,
-    "timeMonth": 264,
+    "timeDay": 134,
+    "timeWeek": 660,
+    "timeMonth": 259,
     "timeYear": 159,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-03-19": 0
+    }
   },
   {
     "name": "NH",
