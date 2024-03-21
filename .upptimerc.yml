@@ -13,14 +13,14 @@ sites:
     url: https://opiniontelevision.com/
   - name: Qtekfun
     url: https://qtekfun.com/
-  - name: Qtekfun Temp
-    url: https://qtekfun.netlify.app/
   - name: NH
     url: https://www.noeliahontoria.com/
   - name: Testamentaria
     url: https://testamentaria.com
   - name: ComidistaFoodie
     url: https://comidistafoodie.com
+  - name: Ciprigeek
+    url: https://ciprigeek.com  
 assignees: # Users to assign downtime issues (optional)
   - qtekfun
 status-website:
