@@ -20,9 +20,7 @@ sites:
   - name: ComidistaFoodie
     url: https://comidistafoodie.com
   - name: Ciprigeek
-    url: https://ciprigeek.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co 
+    url: https://ciprigeek.com  
 assignees: # Users to assign downtime issues (optional)
   - qtekfun
 status-website:
